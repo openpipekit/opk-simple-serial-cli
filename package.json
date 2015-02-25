@@ -1,0 +1,25 @@
+{
+  "name": "thingpipe_simpleserial",
+  "version": "0.0.0",
+  "description": "Thing that gets values between `x` and `x` found over serial",
+  "main": "poll",
+  "scripts": {
+    "test": "poll"
+  },
+  "dependencies": {
+    "serialport": "1.5.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/open-eio/ThingPipe-SimpleSerial.git"
+  },
+  "keywords": [
+    "thingpipe"
+  ],
+  "author": "R.J. Steinert",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/open-eio/ThingPipe-SimpleSerial/issues"
+  },
+  "homepage": "https://github.com/open-eio/ThingPipe-SimpleSerial"
+}
